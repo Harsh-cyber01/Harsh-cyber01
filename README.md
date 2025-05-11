@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Harsh Sawant. I am a student studying at Mumbai University and a web developer</p>
+<p align="left">My name is Harsh Sawant. I am a student studying at Mumbai University and a Full Stack developer</p>
 
 ###
 
